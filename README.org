@@ -1,0 +1,5 @@
+* rot47
+
+This is an attempt to re-implement 'rot47' cipher originally conceived around 1987.
+
+Original 'rot47' is based on JIS X 0208:1983, but to avoid undefined character codes, this implementation adopts JIS X 0213:2014 1st plane.
